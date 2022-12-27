@@ -36,4 +36,6 @@
         </div>
     </body>
 </html>
+
+
 <?php /**PATH C:\xampp\htdocs\coding_with_kbh_blog\resources\views/admin/layouts/app.blade.php ENDPATH**/ ?>
